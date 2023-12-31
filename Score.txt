@@ -1,0 +1,24 @@
+Category: Movies/Shows  Score: 9/30
+Category: Movies/Shows  Score: 0/30
+Category: Movies/Shows  Score: 4/30
+Category: Famous People  Score: 2/30
+Category: Sports  Score: 26/30
+Category: Random Facts  Score: 16/30
+Category: Sports  Score: 6/30
+Category: Sports  Score: 3/30
+Category: Famous People  Score: 2/30
+Category: Countries  Score: 4/30
+Category: Movies/Shows  Score: 18/30
+Category: Random Facts  Score: 1/30
+Category: Sports  Score: 9/30
+Category: History  Score: 0/30
+Category: Sports  Score: 13/30
+Category: Movies/Shows  Score: 3/30
+Category: History  Score: 0/30
+Category: Famous People  Score: 1/30
+Category: Random Facts  Score: 0/30
+Category: Sports  Score: 6/30
+Category: Sports  Score: 9/30
+Category: Famous People  Score: 0/30
+Category: Famous People  Score: 0/30
+Category: Sports  Score: 2/30

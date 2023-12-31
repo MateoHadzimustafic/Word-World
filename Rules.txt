@@ -1,0 +1,8 @@
+Welcome to Trivia Night. Sit back, relax, and trivia. This game is made to engage your knowledge and thinking
+to solve probems. These problems are split up into 6 different categories being sports, famous people, countries,
+movies/shows, history, and random facts. In each one of these sections, you will be prompted with questions and have
+6 lives to try your best to answer all the questions. To get points you will be given a question and will have to answer
+it in a text box and either press the submit button or the enter key on your keyboard. If you get the answer right then
+you will be given the next question and your score will increase by 1. If you get the question wrong then you will 
+lose a heart and the right answer will be given to you under the text box. Once you have completed the game, you will 
+be brought to a screen that will display your name, the category that you chose, and the score that you got. 
